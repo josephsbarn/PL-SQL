@@ -1,2 +1,2 @@
 # PL-SQL
-Oracle PL/SQL Sample files
+Oracle PL/SQL Study / Sample Files
